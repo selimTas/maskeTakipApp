@@ -1,0 +1,11 @@
+C:\Yeni klasör\MaskeTakip\Entities\bin\Debug\net8.0\Entities.deps.json
+C:\Yeni klasör\MaskeTakip\Entities\bin\Debug\net8.0\Entities.dll
+C:\Yeni klasör\MaskeTakip\Entities\bin\Debug\net8.0\Entities.pdb
+C:\Yeni klasör\MaskeTakip\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yeni klasör\MaskeTakip\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\Yeni klasör\MaskeTakip\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\Yeni klasör\MaskeTakip\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\Yeni klasör\MaskeTakip\Entities\obj\Debug\net8.0\Entities.dll
+C:\Yeni klasör\MaskeTakip\Entities\obj\Debug\net8.0\refint\Entities.dll
+C:\Yeni klasör\MaskeTakip\Entities\obj\Debug\net8.0\Entities.pdb
+C:\Yeni klasör\MaskeTakip\Entities\obj\Debug\net8.0\ref\Entities.dll

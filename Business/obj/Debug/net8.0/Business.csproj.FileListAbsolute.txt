@@ -1,0 +1,15 @@
+C:\Yeni klasör\MaskeTakip\Business\bin\Debug\net8.0\Business.deps.json
+C:\Yeni klasör\MaskeTakip\Business\bin\Debug\net8.0\Business.dll
+C:\Yeni klasör\MaskeTakip\Business\bin\Debug\net8.0\Business.pdb
+C:\Yeni klasör\MaskeTakip\Business\bin\Debug\net8.0\Entities.dll
+C:\Yeni klasör\MaskeTakip\Business\bin\Debug\net8.0\Entities.pdb
+C:\Yeni klasör\MaskeTakip\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Yeni klasör\MaskeTakip\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yeni klasör\MaskeTakip\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Yeni klasör\MaskeTakip\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Yeni klasör\MaskeTakip\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Yeni klasör\MaskeTakip\Business\obj\Debug\net8.0\Business.csproj.CopyComplete
+C:\Yeni klasör\MaskeTakip\Business\obj\Debug\net8.0\Business.dll
+C:\Yeni klasör\MaskeTakip\Business\obj\Debug\net8.0\refint\Business.dll
+C:\Yeni klasör\MaskeTakip\Business\obj\Debug\net8.0\Business.pdb
+C:\Yeni klasör\MaskeTakip\Business\obj\Debug\net8.0\ref\Business.dll
